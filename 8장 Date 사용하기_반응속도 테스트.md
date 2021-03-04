@@ -22,7 +22,7 @@
 태그.classList.remove("클래스"); //제거
 ```
 
-### Date
+### Date 클래스
 
 ```js
 new Date(); // 현재 시각 반환
@@ -35,7 +35,7 @@ const endDate = new Date(2020, 12, 3); //undefined
 (endDate - startDate) / 1000 / 60 / 60 / 24; // 13
 ```
 
-### Reduce
+### Reduce 메소드
 
 - 배열에 있는 반복 메서드의 일종
 - 배열의 모든 요소를 하나의 값으로 합침
